@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net60;netcoreapp3.1</TargetFrameworks>
+    <TargetFrameworks>net60</TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <RootNamespace>Staticsoft.DependencyInjection.Tests</RootNamespace>
     <IsPackable>false</IsPackable>
